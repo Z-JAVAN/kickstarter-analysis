@@ -11,14 +11,15 @@ we want to help Louise to ......
 
 
 ### Analysis of Outcomes Based on Launch Date
-We found that failed campaigns had more fundraising ...... 
-![bydate.png](/resources/bydate.png)
+We found that failed campaigns had more fundraising ...... <br/>
+![bydate.png](/resources/bydate.png)<br/>
 
 
 
 ### Analysis of Outcomes Based on Goals
-kjdhjfygjbfjbf mdnfjdfhbjdf g
-![ongoal.png](/resources/ongoal.png)
+kjdhjfygjbfjbf mdnfjdfhbjdf g<br/>
+![ongoal.png](/resources/ongoal.png)<br/>
+
 
 
 ### Challenges and Difficulties Encountered
