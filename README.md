@@ -1,7 +1,9 @@
 # Kickstarter Analysis
 ## Overview of Project
+Louise, a playwright, wants to start a crowdfunding campaign fund her play, Fever, with estimating a budget of over $10,000.
+The purpose is to help Louise to gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.<br/>
 ### Purpose:
-He tries to make informed decisions by analyzing, inspecting and clearing, as well as converting and modeling data and covering useful information. He also tries to put guessing aside.<br/>
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.<br/>
 
 ## Analysis and Challenges
 I tried to solve all the part of the project step by step by reading and searching the booklet and the internet. The chart also helped me a lot to better understand the points and how the data relates and draws conclusions. On the other hand, if I had a problem or made a mistake, I would try to get help from teaching assistants or classmates. My biggest problem was when a formula didn't work and I finally realized I had to remove it from the filter.<br/>
