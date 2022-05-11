@@ -16,7 +16,7 @@ According to the graph, in the first 6 months of the year, the campaigns success
 ### Analysis of Outcomes Based on Goals
 ### Challenges
 In continue, to be more detailed, I need to visualize the percentage of outcome and funding goal data for the “plays” specifically.<br/>
-![outcomes_vs_launch.png](/resources/outcomes_vs_goals.png)<br/><br/>
+![outcomes_vs_launch.png](/resources/outcomes_vs_goals.png)<br/>
 Based on the chart, if the campaign goal is $5,000, the success rate will increase to about 60%. If the goal is in the range of $1,000, it can increase by about 75%. So, as the campaign goal decreases, the success rate increases. Hence, the show campaign may have a better chance of success if they reduce their goals. As a result, the higher the campaign goal, such as $25,000 or higher, the better your chances of becoming a failed campaign.<br/>
 
 
