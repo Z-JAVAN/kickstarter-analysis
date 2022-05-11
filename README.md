@@ -6,9 +6,9 @@ The purpose is to help Louise to gain a greater understanding of campaigns from 
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.<br/>
 
 ## Analysis and Challenges
-I tried to solve all the part of the project step by step by reading and searching the booklet and the internet. The chart also helped me a lot to better understand the points and how the data relates and draws conclusions. On the other hand, if I had a problem or made a mistake, I would try to get help from teaching assistants or classmates. My biggest problem was when a formula didn't work and I finally realized I had to remove it from the filter.<br/>
 ### Analysis of Outcomes Based on Launch Date
 ### Challenges
+To get closer look at how campaign length might be tied to its outcome, I should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. <br/>
 ![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)<br/><br/>
 According to the graph, in the first 6 months of the year, the campaigns success rate has increased and the graph shows an incresea in campaigns success, but in the second 6 months of the year, the graph shows a decrease, which can be due to cold weather, less desire to leave home or other resones. <br/>
 
