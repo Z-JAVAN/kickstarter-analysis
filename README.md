@@ -35,8 +35,5 @@ One limitation could be lack of recent data. There is no current data, the most 
     1. We might need a graph to show the relation between the sucessfull rate and the number of backers/plays.
     2. More raw data from different websites would also help make stronger analyses.<br/>
 
-- What are some other possible tables and/or graphs that we could create?    
-1. We might need a graph to show the relation between the sucessfull rate and the number of backers/plays.
-2. More raw data from different websites would also help make stronger analyses.<br/>
 ## Recommendation
 Based on the results of the charts, it is suggested that Louise take her Plays campaign in May, June and July with a goal less than $1,000 to have a result of up to 80% success.
