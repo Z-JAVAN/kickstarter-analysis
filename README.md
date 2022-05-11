@@ -9,7 +9,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ### Analysis of Outcomes Based on Launch Date
 ### Challenges
 To get closer look at how campaign length might be tied to its outcome, I should consider time, or more specifically, whether the length of a campaign makes a difference in determining its success. <br/>
-![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)<br/><br/>
+![outcomes_vs_launch.png](/resources/outcomes_vs_launch.png)<br/>
 According to the graph, in the first 6 months of the year, the campaigns success rate has increased and the graph shows an incresea in campaigns success, but in the second 6 months of the year, the graph shows a decrease, which can be due to cold weather, less desire to leave home or other resones. <br/>
 
 
