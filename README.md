@@ -36,4 +36,4 @@ One limitation could be lack of recent data. There is no current data, the most 
     2. More raw data from different websites would also help make stronger analyses.<br/>
 
 ## Recommendation
-Based on the results of the charts, it is suggested that Louise take her Plays campaign in May, June and July with a goal less than $1,000 to have a result of up to 80% success.
+Based on the results of the charts, it is suggested that Louise take her Plays campaign in May, June and July with a goal less than $1,000 to have a result of up to 80% success. <br/>
