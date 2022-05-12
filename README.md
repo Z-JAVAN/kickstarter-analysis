@@ -32,9 +32,9 @@ The most successful capaigns are the ones that have goal less than 5000 or goal 
 One limitation could be the lack of recent data. By updating the data, we can find more accurate information and more success. There is no current data, the last campaign was in 2017 and the information is not up to date.
 
 - What are some other possible tables and/or graphs that we could create?
-    1. We might need a graph to show the relation between the sucessfull rate and the number of backers/plays.
-    2. More raw data from different websites would also help make stronger analyses.<br/>
-    3.We can also see which groups of people have the most impact on success rate (female, male or child) and in which age range they have the highest score.
+  1.We might need a graph to show the relation between the sucessfull rate and the number of backers/plays.
+  2.More raw data from different websites would also help make stronger analyses.<br/>
+  3.We can also see which groups of people have the most impact on success rate (female, male or child) and in which age range they have the highest score.
 
 ## Recommendation
 Based on the results of the charts, it is suggested that Louise take her Plays campaign in May, June and July with a goal less than $1,000 to have a result of up to 80% success. <br/>
